@@ -20,5 +20,3 @@ Suggestions for future work include further optimization of controller parameter
 
 ![image](https://github.com/khullarsanket/-Multi-Robot-Logo-Drawing-in-Turtlesim-ROS2/assets/119709438/51b9d8ba-9066-46fa-b78f-8ee4b3d7878d)
 
-https://drive.google.com/open?id=1dJC3SnXoqlgxOrTVBtvNolxlJabboqoB&usp=drive_copy
-
