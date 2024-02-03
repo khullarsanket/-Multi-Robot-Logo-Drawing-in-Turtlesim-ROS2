@@ -18,3 +18,4 @@ Instructions on setting up the environment, running the simulation, and interact
 **Future Work**
 Suggestions for future work include further optimization of controller parameters and exploration of alternative navigation strategies to enhance system performance.
 
+![image](https://github.com/khullarsanket/-Multi-Robot-Logo-Drawing-in-Turtlesim-ROS2/assets/119709438/51b9d8ba-9066-46fa-b78f-8ee4b3d7878d)
